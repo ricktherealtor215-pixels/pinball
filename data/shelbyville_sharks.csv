@@ -1,0 +1,15 @@
+name,position,pace_per_game,coaching_aggressiveness,home_field_advantage,injury_adjustment,completion_pct,yards_per_attempt,touchdown_rate,interception_rate,epa_per_play,success_rate,yards_per_route_run,explosive_rate,pass_block_win_rate,run_block_win_rate,pressure_rate,pass_rush_win_rate,run_stop_win_rate,success_rate_allowed,coverage_grade,interception_rate_def,epa_per_play_allowed,rush_epa_allowed,yards_per_carry_allowed,rush_success_allowed,field_goal_pct,punt_epa,kick_return_epa
+Shelbyville Sharks,,11.4,0.98,1.1,0.96,,,,,,,,,,,,,,,,,,,,,,,
+Evan Brooks,QB,,,,,0.652,7.2,0.048,0.024,0.12,0.49,,,,,,,,,,,,,,,,,
+Damien Cross,RB,,,,,,4.4,,,,0.44,,0.1,,,,,,,,,,,,,,,
+Julian West,WR,,,,,,,,,,0.48,1.9,0.15,,,,,,,,,,,,,,,
+Mason Gray,WR,,,,,,,,,,0.47,1.7,0.13,,,,,,,,,,,,,,,
+Owen Harris,TE,,,,,,,,,,0.46,1.6,0.1,,,,,,,,,,,,,,,
+Liam Roberts,OL,,,,,,,,,,,,,0.57,0.72,,,,,,,,,,,,,
+Isaac Turner,OL,,,,,,,,,,,,,0.55,0.7,,,,,,,,,,,,,
+Adrian Knight,DL,,,,,,,,,,,,,,,0.24,0.45,0.33,,,,-0.015,-0.015,4.3,0.42,,,
+Grant Wilson,LB,,,,,,,,,,,,,,,0.23,0.44,0.32,,,,-0.01,-0.005,4.4,0.43,,,
+Kevin Ellis,CB,,,,,,,,,,,,,,,,,,0.5,66,0.022,-0.035,,,,,,
+Nolan Diaz,S,,,,,,,,,,,,,,,,,,0.51,65,0.02,-0.03,,,,,,
+Victor Long,K,,,,,,,,,,,,,,,,,,,,,,,,,0.88,,
+Harper Mills,P,,,,,,,,,,,,,,,,,,,,,,,,,,-0.02,0.03
